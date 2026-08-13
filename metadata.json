@@ -1,0 +1,6 @@
+{
+  "name": "BudgetControlPilot",
+  "description": "Application hors ligne de cockpit financier personnel et gestion budgétaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
